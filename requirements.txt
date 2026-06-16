@@ -4,6 +4,3 @@ numpy
 scikit-learn
 joblib
 xgboost
-lightgbm
-catboost
-imbalanced-learn
